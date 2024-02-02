@@ -10,7 +10,7 @@
 - Automatically adds conquered villages
 - Farm management
 - Market management
-- Premium market (free premium points :D)
+- Premium market 
 - Research management (including level systems)
 - Automatic snob creation
 - Report management
